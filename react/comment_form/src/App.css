@@ -1,0 +1,10 @@
+.set{
+  display: flex;
+  gap:1rem;
+}
+
+.sets{
+  min-width: 7rem;
+  border: 2px solid black;
+  text-align: center;
+}
